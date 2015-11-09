@@ -1,0 +1,45 @@
+Roles Scrum
+========================
+ScrumMaster -> Sr Felino
+Dueño del producto -> Cristina
+Equipo de desarrollo -> Todos
+
+Definición de hecho
+========================
+Una cosa está hecha en nuestro proyecto cuando:
+-
+
+
+Pila de producto inicial
+========================
+Buscador de recetas:
++Generar Base de Datos de Recetas
++Crear servidor para acceso a la Base de Datos de recetas
++Implementar funcionalidad en el servidor para gestionar las solicitudes 
+de la app
++Implementar funcionalidad en la app para permitir al usuario solicitar 
+recetas al servidor
+
+Diferentes filtros:
++Insertar tablas adicionales en la BD para los filtros si es necesario 
+(alimentos por ejemplo)
++Implementar en el servidor funciones para procesar las opciones de filtrado 
+de datos de la aplicación.
++Implementar en la aplicación la funcionalidad de solicitar datos filtrados.
+
+Localización del usuario y supermercados cercanos mediante GPS
++Implementar en la app la funcionalidad de Google Maps?
+
+
+
+
+
+Criterios de aceptacion
+=====================
+Registro de usuarios
+-La app permitirá al usuario registrarse
+-La app permitirá al usuario hacer log in
+-La app permitirá al usuario hacer log out
+-La app permitirá al usuario hacer log in automatico
+-La app requerirá de una confirmación del registro para hacer efectivo el
+mismo
