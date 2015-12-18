@@ -1,0 +1,31 @@
+Para las memorias:
+	* Enumerar páginas
+	* Incluir un enlace al repositorio de Github
+
+Entradas de la pila no muy detalladas: contrasta con los criterios de aceptación. 
+Scrum no lo exige, pero al ser un documento técnico se exige un poco más de descripción.
+
+Repasar los diagramas:
+	* Hay una flecha de IMPORT entre App y Server -> MAL
+	* Aclarar el diagrama de despliegue
+	* Diagrama de componentes: ¿Servlet es componente o interfaz?
+	* Explicar cada diagrama (falta información en el diagrama de componentes y despliegue)
+		* NECESARIO rationale para mejor nota.
+
+Diagramas de Burnup:
+	* Tareas -> Entradas de la pila
+	* Mejor poner puntos de historia en el diagrama de burnup si los tenemos.
+
+A mejorar:
+	* Explicación arquitectural (medio bien). Repasarlo e incluir interfaces (MUY IMPORTANTE)
+	* Repasar historias de usuario
+	* Exposiciones, rationale falta.
+	* Repasar y concretar los criterios de aceptación.
+	* Relacionar criterios de aceptación con los prototipos de las pantallas.
+	* Convertir las condiciones de satisfacción a algo satisfacible por una fórmula, intentar
+		que las condiciones de satisfacción puedan ser convertidas en tests de aceptación de
+		forma trivial.
+		Definir también lo que significa "correctamente" y demás.
+
+Interesante:
+	* Diagrama de burnup durante el sprint
